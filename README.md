@@ -21,7 +21,7 @@ Assembly: Endgame is a fun and engaging word-guessing game where players aim to 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Eviatarbrigman/assembly-endgame.git
    ```
 2. Navigate to the project directory:
    ```bash
